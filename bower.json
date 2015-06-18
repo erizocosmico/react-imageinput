@@ -1,0 +1,30 @@
+{
+  "name": "react-imageinput",
+  "version": "0.0.0",
+  "authors": [
+    "Miguel Molina <hi@mvader.me>"
+  ],
+  "description": "React component that aims to replace file inputs for image uploads. It comes with support for multiple images and previews of the uploaded images.",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "react",
+    "component",
+    "image",
+    "upload",
+    "file",
+    "preview"
+  ],
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
