@@ -1,12 +1,21 @@
 {
   "name": "react-imageinput",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "React component that aims to replace file inputs for image uploads. It comes with support for multiple images and previews of the uploaded images.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "bower install"
+    "postinstall": "bower install && gulp build"
   },
+  "keywords": [
+    "react",
+    "component",
+    "image",
+    "upload",
+    "file",
+    "preview"
+  ],
+  "repository": "https://github.com/mvader/react-imageinput",
   "author": "Miguel Molina <hi@mvader.me>",
   "license": "MIT",
   "devDependencies": {
